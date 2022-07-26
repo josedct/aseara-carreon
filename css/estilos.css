@@ -1,0 +1,13 @@
+/*#BA0013*/
+
+.navColor a{
+    color: #BA0013 !important;
+}
+
+.navColor a:hover{
+    color: #FFA900 !important; 
+}
+
+.carousel-indicators li{
+    background-color: #FFA900 !important;
+}
