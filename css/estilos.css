@@ -14,3 +14,8 @@ header{
 .carousel-indicators li{
     background-color: #FFA900 !important;
 }
+
+.icon-format{
+    background-color: #BA0013;
+    color: white;
+}
