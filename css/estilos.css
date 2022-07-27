@@ -115,3 +115,26 @@ header{
     white-space: wrap;
     color: #ba0013;
 }
+
+.socket-color{
+    background-color: #ffaa0080;
+}
+
+.footer-color{
+    background-color: #ffaa0023;
+}
+
+.text-size{
+    font-size: .8em;
+}
+
+.subnavColor a{
+    color: #BA0013 !important;
+    font-size: .8em;
+    transition: 0.5 ease-in;
+}
+
+.subnavColor a:hover{
+    font-weight: 600;
+    font-size: 0.9em;
+}
