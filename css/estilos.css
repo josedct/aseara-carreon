@@ -155,3 +155,16 @@ header{
     color: #ba0013;
     background-color: #FFA900;
 }
+
+.liststyle{
+    list-style: none;
+}
+
+.aboutHeigth{
+    min-height: 500px;
+    border-bottom: 5px solid lightgray;
+}
+
+.borderbottom{
+    border-bottom: 5px solid lightgray;
+}
