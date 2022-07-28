@@ -168,3 +168,23 @@ header{
 .borderbottom{
     border-bottom: 5px solid lightgray;
 }
+
+.contactimg{
+    background-image: url("../img/contacto.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    min-height: 500px;
+}
+
+.buttonContact{
+    color: #ba0013;
+    font-size: 2em;
+    transition: all .3s ease;
+    text-decoration: none;
+}
+
+.buttonContact:hover{
+    color: #FFA900;
+}
