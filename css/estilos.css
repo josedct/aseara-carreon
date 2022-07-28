@@ -138,3 +138,20 @@ header{
     font-weight: 600;
     font-size: 0.9em;
 }
+
+.serviceHeigth{
+    min-height: 480px;
+    border-bottom: 5px solid lightgray;
+}
+
+.buttonColor{
+    background-color: #ba0013;
+    color: #FFA900;
+    font-weight: 500;
+    transition: all .3s ease;
+}
+
+.buttonColor:hover{
+    color: #ba0013;
+    background-color: #FFA900;
+}
