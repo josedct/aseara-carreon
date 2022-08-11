@@ -150,7 +150,8 @@ header {
 .serviceHeigth {
   min-height: 480px;
   background-image: url("../img/fondo-servicios.png");
-  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
   border-bottom: 5px solid lightgray;
 }
 
