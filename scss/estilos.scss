@@ -18,7 +18,7 @@ header{
     color: $colorPr !important;
 
     &:hover{
-        color: $fontSc !important; 
+        color: $colorSc !important; 
     }
 }
 
@@ -186,6 +186,8 @@ header{
 
 .serviceHeigth{
     min-height: 480px;
+    background-image: url('../img/fondo-servicios.png');
+    background-size: contain;
     border-bottom: 5px solid lightgray;
 }
 

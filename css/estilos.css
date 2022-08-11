@@ -15,7 +15,7 @@ header {
   color: #BA0013 !important;
 }
 .navColor a:hover {
-  color: "Josefin Sans" !important;
+  color: #FFA900 !important;
 }
 
 .carousel-indicators li {
@@ -149,6 +149,8 @@ header {
 
 .serviceHeigth {
   min-height: 480px;
+  background-image: url("../img/fondo-servicios.png");
+  background-size: contain;
   border-bottom: 5px solid lightgray;
 }
 
